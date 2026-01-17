@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : E-commerce website<br>👯 I’m looking to collaborate on : Frontend development(React, Tailwind), MERN full-stack applications<br>🤝 I’m looking for help with : Improving real-time features, React best practices, Personal branding<br>🌱 I’m currently learning : Next.js | Typescript | Scalability and system design<br>💬 Ask me about : Project planning and how to get started with real-world project building.<br>⚡ Fun fact : My favorite part of coding? When my code works  and I don’t fully know why. Then I dig in to understand it.
+🔭 I’m currently working on : E-commerce website<br>👯 I’m looking to collaborate on : Frontend development(React, Tailwind), MERN full-stack applications<br>🌱 I’m currently learning : Next.js | Typescript | Scalability and system design<br>💬 Ask me about : Project planning and how to get started with real-world project building.<br>⚡ Fun fact : My favorite part of coding? When my code works  and I don’t fully know why. Then I dig in to understand it.
 
 
 ## 🌐 Socials:
